@@ -1,0 +1,74 @@
+body{
+
+}
+
+.container_new{
+	
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.game_container{
+	width: 620px;
+	height: 420px;
+	border-style: solid;
+    border-width: 5px;
+	
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.image_div{
+	padding: 1%;
+}
+
+.img_exp{
+	width: 600px;
+	height: 400px;
+	border-style: solid;
+    border-width: 2px;
+}
+
+.brand_img{
+	width: 80px;
+	height: 30px;
+	border-style: none;	
+}
+
+
+.img-fluid{
+
+	padding: 10px;
+}
+img{
+	width: 600px;
+	height: 400px;
+	border-style: solid;
+    border-width: 5px;
+}
+
+a{
+	text-decoration: none;
+	color: #000;	
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+	color: #fff;
+  	text-decoration: none;
+}
+
+a:active {
+  text-decoration: underline;
+}
