@@ -8,8 +8,7 @@
 
       //Formulario de acceso:
       //Ahora pasaremos a crear nuestro formulario de acceso o Login, a este archivo lo llamaremos acceso.php
-      //recordemos que podemos cerrar un script en el medio de un if o un for
-      //para agregar info html.
+      
 ?>
 
 
